@@ -1,12 +1,11 @@
-
 import { useEffect, useState } from 'react';
 
 // Utility for staggered animations
-export const stagger = (delayMs = 50, index = 0): { style: { [key: string]: string } } => {
+export const stagger = (delayMs = 50, index = 0) => {
   return {
     style: {
-      '--animation-delay': `${index * delayMs}`,
-    } as React.CSSProperties,
+      '--animation-delay': `${index * delayMs}ms`,
+    },
   };
 };
 
