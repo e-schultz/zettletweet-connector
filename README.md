@@ -1,5 +1,9 @@
-
+- https://lovable.dev/projects/c1b24f9f-6475-4f5f-8c45-cd0e74900691
+- https://note-tweeter-layout.lovable.app/
+  
 # Zettle Tweet
+
+<img width="1041" alt="Screenshot 2025-04-18 at 10 07 42 AM" src="https://github.com/user-attachments/assets/5555f0da-5a70-4812-8399-811fa15d5806" />
 
 ## Project Description
 Zettle Tweet is a unique social media platform that combines the thoughtful, interconnected nature of Zettelkasten note-taking systems with the fast-paced, social aspects of Twitter. It allows users to create, connect, and explore bite-sized thoughts ("zettles") that form a network of knowledge rather than just an ephemeral feed.
